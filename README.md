@@ -71,10 +71,10 @@ Adoro me desafiar com objetivos novos e ousados, sempre com a intenção de apri
 
 ## - Atividades
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheus-gregorin&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusGregorin&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-gregorin&layout=pie&theme=dark)](https://github.com/anuraghazra/github-readme-stats) | 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-gregorin&hide_progress=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusGregorin&layout=pie&theme=dark)](https://github.com/anuraghazra/github-readme-stats) | 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusGregorin&hide_progress=true&theme=dark)
 
 ## - Redes Sociais
 
