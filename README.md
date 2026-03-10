@@ -29,8 +29,8 @@ Sou movido por desafios e aprendizado contínuo. Gosto de entender o problema a 
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> |
   <img align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"> |
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> |
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> |
-  <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <!-- <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> |
+  <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> -->
 </div>
 
 ---
@@ -89,15 +89,11 @@ Sou movido por desafios e aprendizado contínuo. Gosto de entender o problema a 
   <img align="center" alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </div>
 
----
-
 ## 📊 Atividades no GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusGregorin&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGregorin&layout=compact&theme=dark)
-
----
 
 ## 🌐 Redes Sociais
 
@@ -108,8 +104,7 @@ Sou movido por desafios e aprendizado contínuo. Gosto de entender o problema a 
 
 ## 📫 Contato
 
-- 💼 LinkedIn: https://www.linkedin.com/in/matheus-gregorin-22b496197  
-- 📧 Email: seuemail@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/matheus-gregorin-22b496197    
 
 ---
 
