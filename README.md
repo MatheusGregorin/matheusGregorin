@@ -33,8 +33,8 @@ Atuo no desenvolvimento de soluções robustas focadas em **mensageria, microsse
 
 | Área | Tecnologias |
 |-----|-------------|
-| **Backend** | PHP, Laravel, Node.js, Python |
-| **Frontend** | React, JavaScript |
+| **Backend** | PHP, Laravel, Python, Go |
+| **Frontend** | React, JavaScript, HTML5, Css |
 | **Infra & DevOps** | Docker, Linux, GCP |
 | **Mensageria** | RabbitMQ, Kafka |
 | **Databases** | MySQL, MongoDB, Redis |
@@ -67,7 +67,7 @@ Atuo no desenvolvimento de soluções robustas focadas em **mensageria, microsse
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,py,django,go,docker,mysql,mongodb,postgress,redis,js,react,gcp,rabbitmq,git,linux,vscode,idea"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,py,django,go,docker,mysql,mongodb,postgres,redis,js,react,gcp,rabbitmq,git,linux,vscode,idea"/>
 
 </div>
 
