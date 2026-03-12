@@ -67,7 +67,7 @@ Atuo no desenvolvimento de soluções robustas focadas em **mensageria, microsse
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,py,go,docker,mysql,mongodb,redis,js,react,gcp,rabbitmq,git,linux,vscode,idea"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,py,django,go,docker,mysql,mongodb,postgress,redis,js,react,gcp,rabbitmq,git,linux,vscode,idea"/>
 
 </div>
 
